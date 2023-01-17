@@ -6,7 +6,6 @@ Requer apenas uma IDE que programe em C instalado em sua máquina.
 
 Sugestão para Windows [Falcon C++](http://falconcpp.sourceforge.net/downloads/)
 
-**:construction:** Sugestão para Linux ... Em andamento **:construction:**
 
 ## **:computer:** Desenvolvimento cronológico
 Projeto finalizado para sistema 'Windows', porém com possíveis alterações para a acessibilidade também para sistema 'Linux'.
